@@ -1,0 +1,11 @@
+this project is created using
+
+  rails new foo
+
+using Ruby 1.9.2-p180 and Rails 3.0.6 on a Macbook running Snow Leopard with 
+RVM.
+
+to make the files easy to compare with other projects created by different
+versions of Rails, the name "foo" is used, instead of "ruby192_rails306", so
+that there is as little diff as possible when diff'ing with other Rails 
+projects.
